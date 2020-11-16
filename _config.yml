@@ -1,0 +1,12 @@
+remote_theme : mmistakes/minimal-mistakes
+minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Site Settings
+locale                   : "ko-KR"
+title                    : "Site Title"
+title_separator          : "-"
+name                     : "DevChanwoo"
+description              : "역사 학습지 공유용"
+url                      : "https://stormdev.club/History" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
